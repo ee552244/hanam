@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: 'NotoSansKR';
+  font-style: normal;
+  font-weight: 400;
+  src: local('※'),
+      url('/font/NotoSansKR-Black.woff2')
+      format('woff2');
+}
+
+@font-face {
+  font-family: 'NotoSansKR';
+  font-style: normal;
+  font-weight: 400;
+  src: local('※'),
+      url('/font/NotoSansKR-Regular.woff2')
+      format('woff2');
+}
+
+@font-face {
+  font-family: 'NotoSansKR';
+  font-style: normal;
+  font-weight: 300;
+  src: local('※'),
+      url('/font/NotoSansKR-Light.woff2')
+      format('woff2');
+}
+
+@font-face {
+  font-family: 'NotoSansKR';
+  font-style: normal;
+  font-weight: 500;
+  src: local('※'),
+      url('/font/NotoSansKR-Medium.woff2')
+      format('woff2');
+}
+
+@font-face {
+  font-family: 'NotoSansKR';
+  font-style: normal;
+  font-weight: 700;
+  src: local('※'),
+      url('/font/NotoSansKR-Bold.woff2')
+      format('woff2');
+}
+
+
+
+
+@font-face {
+  font-family: 'CrimsonText';
+  font-style: normal;
+  font-weight: 600;
+  src: local('※'),
+      url('/font/CrimsonText-Bold.ttf')
+      format('ttf');
+}
+
+@font-face {
+  font-family: 'CrimsonText';
+  font-style: normal;
+  font-weight: 400;
+  src: local('※'),
+      url('/font/CrimsonText-Regular.ttf')
+      format('ttf');
+}
+
+@font-face {
+  font-family: 'CrimsonText';
+  font-style: normal;
+  font-weight: 500;
+  src: local('※'),
+      url('/font/CrimsonText-SemiBold.ttf')
+      format('ttf');
+}
